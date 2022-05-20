@@ -10,10 +10,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/uqQdCeqyx71NlNIOPY">
+  <img align="right" alt="alexgithubgif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/uqQdCeqyx71NlNIOPY/giphy.gif">
   </p>
 </div>
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/uqQdCeqyx71NlNIOPY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/uqQdCeqyx71NlNIOPY">via GIPHY</a></p>
   
   ##
  
