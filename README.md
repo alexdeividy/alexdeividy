@@ -1,4 +1,4 @@
-## Eae! Eu sou o Alex, estudante de Desenvolvimento Mobile 📱
+## Eae! Eu sou o Alex, estudante de Desenvolvimento!
 <div align="center">
   <a href="https://github.com/alexdeividy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexdeividy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
